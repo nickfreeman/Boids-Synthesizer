@@ -1,4 +1,4 @@
-Nick Freeman's Music 158 Final Project - Boids Synthesizer
+Nick Freeman's Boids Synthesizer
 
 Step 1: Copy Boids for Max MSP external by Eric Singer into Applications/Max 6.1/Cycling '74
 Step 2: TWO ARE TWO MAIN PATCHES:  V1 = main.maxpat, V2 = main_rhythm.maxpat
