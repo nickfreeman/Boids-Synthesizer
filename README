@@ -1,0 +1,8 @@
+Nick Freeman's Music 158 Final Project - Boids Synthesizer
+
+Step 1: Copy Boids for Max MSP external by Eric Singer into Applications/Max 6.1/Cycling '74
+Step 2: TWO ARE TWO MAIN PATCHES:  V1 = main.maxpat, V2 = main_rhythm.maxpat
+Step 3: Open Patch
+Step 4: Enable dac~ to enable sound, click "Start simulation" toggle to begin the boids simulation, click "fullscreen" toggle to enter fullscreen
+Step 5: The particles will follow your mouse (all calcultions using o. objects). 
+Step 6: Enjoy!
